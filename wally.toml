@@ -1,0 +1,10 @@
+[package]
+name = "diahala-science-inc/pulse"
+description = "Simple Module to help with haptics"
+authors = ["onnichilzz <jam.diahala@gmail.com>"]
+license = "GPL-3.0-or-later"
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
